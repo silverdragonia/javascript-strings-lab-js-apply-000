@@ -18,6 +18,8 @@ Imagine we're planning a birthday party for Bill Nye. There are going to be a lo
 First, we need to practice greeting everyone. (I don't know about you, but I sometimes get nervous and say the dumbest things — but we don't want to embarrass ourselves in front of Bill Nye!)
 
 One might think that we could just type
+n
+
 
 ```js
 Hello, everybody!
